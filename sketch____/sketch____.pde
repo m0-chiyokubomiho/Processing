@@ -86,7 +86,7 @@ void draw(){
   translate(0,0,baseL0-5);
   //go to center of 1st joint
   translate(0,0,arm1L/2);
-  fill(#B74141);
+  fill(#870010);
   box(arm1W,arm1D,arm1L);
   
   //2nd link
